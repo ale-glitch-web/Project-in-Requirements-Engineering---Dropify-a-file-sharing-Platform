@@ -54,19 +54,25 @@ Stakeholders included:
 - **Surveys** – targeted to BIT students
 - **Interviews** – with professors and BIT Head
 
-### 📋 Kano Model-Based Requirements
+### 📋 Kano Model-Based Requirements 
 
-<img width="1361" height="730" alt="Screenshot 2025-08-03 094725" src="https://github.com/user-attachments/assets/0e453603-851a-4e30-a4a4-54848fd04552" />
+## 🧩 Requirements Categorized by KANO Model
 
+| Dissatisfiers            | Satisfiers             | Delighters                           |
+|--------------------------|------------------------|--------------------------------------|
+| User Login               | Filter Function        | Custom User Notification             |
+| User Logout              | Text Search            | Deleted Files Backup                 |
+| Account Creation         | Course Selection       | File Rating                          |
+| Removal of the Account   | User Support Center    | AI-Enhanced Quality Management       |
+| Modification of Account  | Structured Tutorial    |                                      |
+| Upload Files             |                        |                                      |
+| Download Files           |                        |                                      |
+| Deletion Area            |                        |                                      |
 
-
-| Dissatisfiers                  | Satisfiers                        | Delighters                            |
-|-------------------------------|-----------------------------------|----------------------------------------|
-| Login, logout, upload, delete | Filter, search, tutorials         | AI-Enhanced Quality, file rating, notifications |
 
 ---
 
-## 🧭 UML Documentation
+## UML Documentation
 
 | Diagram Type                 | Content Example                                             |
 |-----------------------------|-------------------------------------------------------------|
@@ -102,21 +108,6 @@ Interactive screens designed for:
 
 ---
 
-## 🛠 Tools Used
-
-| Tool                  | Purpose                              | Notes                              |
-|-----------------------|--------------------------------------|-------------------------------------|
-| Visual Paradigm       | UML modeling                         | User-friendly after some learning   |
-| Enterprise Architect  | Advanced UML and system diagrams     | Used for detailed modeling tasks    |
-| Figma / FluidUI       | GUI mockup design                    | Interactive UI prototypes           |
-| Microsoft Word        | Documentation                        | Main tool for writing the spec      |
-| Microsoft Excel       | Planning & effort estimation         | Used for Function Point analysis    |
-| Microsoft Teams       | Remote meetings                      | For collaboration and feedback      |
-| WhatsApp              | Quick communication                  | Used for daily coordination         |
-| Google Drive          | Cloud storage                        | Centralized file management         |
-
----
-
 ## 🔄 Reflection & Lessons Learned
 
 - **Strengths**: Effective team coordination, clear documentation process
@@ -126,12 +117,6 @@ Interactive screens designed for:
   - Applied RE techniques in depth
   - Understood system modeling from stakeholder to deployment
   - Managed project documentation using industry-style collaboration
-
----
-
-## 📁 Repository Structure (suggested)
-
-
 
 ---
 
