@@ -19,9 +19,7 @@ The platform enables students to:
 
 ---
 
-## Project Goals
-
-## 🎯 Project Objectives
+## Project Objectives
 
 | Objective                     | Description                                              |
 |------------------------------|-----------------------------------------------------------|
@@ -38,25 +36,31 @@ The platform enables students to:
 Stakeholders included:
 - Students
 - Professors
-- FHNW Management & BIT Secretary
-- Government and FHNW Sponsors
+- FHNW Management
+- BIT Secretary
+- FHNW Sponsors
+- Government
 
-**Artifacts**:
-- Importance–Influence and Importance–Motivation Diagrams
-- Context & System Boundary Diagram
+Key artifacts:
+- Stakeholder table and descriptions
+- Importance–Influence diagram
+- Importance–Motivation diagram
+- Context & System Boundary diagram
 
 ---
 
 ## Requirements Engineering
 
 ### Elicitation Techniques
-- **Brainstorming** – for initial ideation
-- **Surveys** – targeted to BIT students
-- **Interviews** – with professors and BIT Head
 
-### Kano Model-Based Requirements 
+Three techniques were used to gather and refine system requirements:
+- **Brainstorming**: Group discussion to define initial features and structure
+- **Surveys**: Gathered input from BIT students on needs, frustrations, and desired features
+- **Interviews**: Conducted with professors and the Head of BIT to validate requirements and identify technical constraints
 
-## Requirements Categorized by KANO Model
+---
+
+### Requirements Categorized by KANO Model
 
 | Dissatisfiers            | Satisfiers             | Delighters                           |
 |--------------------------|------------------------|--------------------------------------|
@@ -69,54 +73,66 @@ Stakeholders included:
 | Download Files           |                        |                                      |
 | Deletion Area            |                        |                                      |
 
-
 ---
 
 ## UML Documentation
 
-| Diagram Type                 | Content Example                                             |
+| Diagram Type                 | Description                                                 |
 |-----------------------------|-------------------------------------------------------------|
-| **Use Case Diagrams**       | Account & File Management, Support, AI Quality Control     |
-| **Activity Diagram**        | File upload with AI flow                                   |
-| **Sequence Diagram**        | Login process                                               |
-| **Deployment Diagram**      | Architecture (Apache, MySQL, Mail Server setup)            |
+| Use Case Diagrams           | Covering account, file management, and support features     |
+| Activity Diagrams           | For complex use cases like file upload and AI validation    |
+| Sequence Diagram            | User login interaction sequence                             |
+| Deployment Diagram          | System architecture including web server, DB, and mail server |
 
-**~20 Use Cases** documented, structured with full scenarios and triggers.
+A total of 20+ use cases were modeled and documented using standard templates.
 
 ---
 
 ## GUI Mockups
 
-Interactive screens designed for:
-- Account Registration & Login
-- Main Navigation & Settings
-- File Upload/Download
-- Technical Support
-- File Rating and Filtering
+Mockups were created to simulate key user interactions:
+- Registration and login flows
+- Main navigation and dashboard
+- Upload and download interface
+- File rating and filtering
+- Technical support form
 
-Designed using **Figma** and **FluidUI**
+Tools used: **Figma** and **FluidUI**
 
 ---
 
 ## Non-Functional Requirements
 
-- Usability: system understood within 6 minutes  
-- Security: HTTPS, password-protected access  
-- Portability: responsive UI across devices  
-- Performance: 100+ concurrent users, 99.5% uptime  
-- Reliability: daily backups, fast bug resolution
+| Category       | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| Usability      | The system should be learnable in under 6 minutes                          |
+| Performance    | Supports 100+ concurrent users, 99.5% system uptime                         |
+| Portability    | Fully responsive UI, compatible with all major browsers and mobile devices |
+| Reliability    | Daily data backups, fast bug resolution (within 1 hour)                    |
+| Security       | HTTPS encryption, account-based access, GDPR-aligned data processing       |
+| Compliance     | Mandatory acceptance of Terms & Conditions                                 |
 
 ---
 
 ## Reflection & Lessons Learned
 
-- **Strengths**: Effective team coordination, clear documentation process
-- **Weaknesses**: Uneven task distribution, varying experience levels
-- **Opportunities**: Simulated real-world collaboration and system design
-- **Key Learnings**:
-  - Applied RE techniques in depth
-  - Understood system modeling from stakeholder to deployment
-  - Managed project documentation using industry-style collaboration
+### Strengths
+- Clear division of responsibilities within the team
+- Strong documentation practices
+- Valuable practice in applying real-world RE techniques
+
+### Weaknesses
+- Occasional imbalance in workload and knowledge sharing
+- Some planning inefficiencies led to rework
+
+### Opportunities
+- Peer feedback and review cycles deepened learning
+- Simulated realistic project structure and teamwork dynamics
+
+### Key Learnings
+- Experience with tools used in the software industry
+- Applied structured techniques for stakeholder analysis and requirement definition
+- Developed a deeper understanding of systems modeling and documentation
 
 ---
 
@@ -124,16 +140,16 @@ Designed using **Figma** and **FluidUI**
 
 | Tool                  | Purpose                              | Notes                              |
 |-----------------------|--------------------------------------|-------------------------------------|
-| Visual Paradigm       | UML modeling                         | User-friendly after some learning   |
-| Enterprise Architect  | Advanced UML and system diagrams     | Used for detailed modeling tasks    |
-| Figma / FluidUI       | GUI mockup design                    | Interactive UI prototypes           |
-| Microsoft Word        | Documentation                        | Main tool for writing the spec      |
-| Microsoft Excel       | Planning & effort estimation         | Used for Function Point analysis    |
-| Microsoft Teams       | Remote meetings                      | For collaboration and feedback      |
-| WhatsApp              | Quick communication                  | Used for daily coordination         |
-| Google Drive          | Cloud storage                        | Centralized file management         |
+| Visual Paradigm       | UML modeling                         | Most user-friendly for diagrams     |
+| Enterprise Architect  | Advanced UML and documentation       | Used for high-detail modeling       |
+| Figma / FluidUI       | GUI mockups                          | Built for platform UI concepts      |
+| Microsoft Word        | Project documentation                | Used for final reports              |
+| Microsoft Excel       | Planning and effort estimation       | Applied to Function Point analysis  |
+| Microsoft Teams       | Remote collaboration                 | Weekly sync and feedback            |
+| WhatsApp              | Informal communication               | Quick updates and coordination      |
+| Google Drive          | Cloud file storage and sharing       | Shared access to all documentation  |
 
+---
 
-
-
+## See the complete report: 
 
