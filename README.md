@@ -151,6 +151,7 @@ Tools used: **Figma** and **FluidUI**
 
 ---
 
-## See the complete report: [RE_Dropify_2023_CE_Project_Report.pdf](https://github.com/ale-glitch-web/Project-in-Requirements-Engineering---Dropify-a-file-sharing-Platform/blob/main/RE_Dropify_2023_CE_Project%20Report.pdf)
+## See the complete report:
+[RE_Dropify_2023_CE_Project_Report.pdf](https://github.com/ale-glitch-web/Project-in-Requirements-Engineering---Dropify-a-file-sharing-Platform/blob/main/RE_Dropify_2023_CE_Project%20Report.pdf)
 
 
