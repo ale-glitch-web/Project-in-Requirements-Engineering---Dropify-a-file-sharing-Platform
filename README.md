@@ -33,7 +33,7 @@ The platform enables students to:
 
 ---
 
-## 🔍 Stakeholder & Context Analysis
+## Stakeholder & Context Analysis
 
 Stakeholders included:
 - Students
@@ -47,16 +47,16 @@ Stakeholders included:
 
 ---
 
-## 🧩 Requirements Engineering
+## Requirements Engineering
 
-### 📌 Elicitation Techniques
+### Elicitation Techniques
 - **Brainstorming** – for initial ideation
 - **Surveys** – targeted to BIT students
 - **Interviews** – with professors and BIT Head
 
-### 📋 Kano Model-Based Requirements 
+### Kano Model-Based Requirements 
 
-## 🧩 Requirements Categorized by KANO Model
+## Requirements Categorized by KANO Model
 
 | Dissatisfiers            | Satisfiers             | Delighters                           |
 |--------------------------|------------------------|--------------------------------------|
@@ -81,11 +81,11 @@ Stakeholders included:
 | **Sequence Diagram**        | Login process                                               |
 | **Deployment Diagram**      | Architecture (Apache, MySQL, Mail Server setup)            |
 
-➡️ **~20 Use Cases** documented, structured with full scenarios and triggers.
+**~20 Use Cases** documented, structured with full scenarios and triggers.
 
 ---
 
-## 🎨 GUI Mockups
+## GUI Mockups
 
 Interactive screens designed for:
 - Account Registration & Login
@@ -94,21 +94,21 @@ Interactive screens designed for:
 - Technical Support
 - File Rating and Filtering
 
-📌 Designed using **Figma** and **FluidUI**
+Designed using **Figma** and **FluidUI**
 
 ---
 
-## 📦 Non-Functional Requirements
+## Non-Functional Requirements
 
-- 💡 Usability: system understood within 6 minutes  
-- 🔐 Security: HTTPS, password-protected access  
-- 📱 Portability: responsive UI across devices  
-- ⚙️ Performance: 100+ concurrent users, 99.5% uptime  
-- 💾 Reliability: daily backups, fast bug resolution
+- Usability: system understood within 6 minutes  
+- Security: HTTPS, password-protected access  
+- Portability: responsive UI across devices  
+- Performance: 100+ concurrent users, 99.5% uptime  
+- Reliability: daily backups, fast bug resolution
 
 ---
 
-## 🔄 Reflection & Lessons Learned
+## Reflection & Lessons Learned
 
 - **Strengths**: Effective team coordination, clear documentation process
 - **Weaknesses**: Uneven task distribution, varying experience levels
